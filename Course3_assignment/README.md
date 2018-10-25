@@ -10,14 +10,14 @@ I decided to load the data and clean the data before i merge everything together
 # Prerequisits
 the following file structure is expected in the working directory
 
-./features.txt
-./activity_labels.txt
-./test/X_test.txt
-./test/y_test.txt
-./test/subject_test.txt
-./train/X_train.txt
-./train/y_train.txt
-./train/subject_train.txt
+* ./features.txt
+* ./activity_labels.txt
+* ./test/X_test.txt
+* ./test/y_test.txt
+* ./test/subject_test.txt
+* ./train/X_train.txt
+* ./train/y_train.txt
+* ./train/subject_train.txt
 
 # Code Book
 activity_name Factor Human readable name of the activity
